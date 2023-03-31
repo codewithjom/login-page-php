@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "yarn tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "name": "login-page-php",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.0"
+  }
+}
